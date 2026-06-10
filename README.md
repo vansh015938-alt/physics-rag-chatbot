@@ -1,12 +1,3 @@
----
-title: Physics RAG Bot
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # 🔭 Local Physics RAG Chatbot
 
 An offline, local Retrieval-Augmented Generation (RAG) system acting as an undergraduate-level physics tutor. Powered by **Ollama (`qwen2.5:7b` + `nomic-embed-text`)**, **LangChain**, **ChromaDB**, and **Streamlit**.
